@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Project Eighty8
+- https://github.com/starshipmonkey/Eighty8
+
 <!--
 **starshipmonkey/StarshipMonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
